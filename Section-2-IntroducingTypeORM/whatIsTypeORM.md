@@ -9,3 +9,5 @@
 - Suporta DataMapper e ActiveRecord
 
 - Checar mais funcionalidade na aula 2 seção 2
+
+- https://typeorm.io
