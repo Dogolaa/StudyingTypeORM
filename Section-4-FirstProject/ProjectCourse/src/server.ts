@@ -12,7 +12,7 @@ app.use(express.json());
 
 AppDataSource.initialize().then(async () => {
   console.log('Database started!');
-  app.listen(process.env.PORT || 3000, () => {
+  app.listen(process.env.PORT || 3100, () => {
     console.log('Server started!');
   });
 });
